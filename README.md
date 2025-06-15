@@ -6,7 +6,7 @@
   - 👯 [Self-Managed GitHub Repository Org Example](https://github.com/boxcutter/pulumi-github-repository) - OrgOps for GitHub in Pulumi with Python
   - 🧱 [Boxcutter Chef Cookbooks](https://github.com/boxcutter/boxcutter-chef-cookbooks) - Example Chef Automation in the Meta/Facebook "Configuration as Data" style
 
-- 📝 Training I've provided
+- 📝 Teaching
   - [Introduction to KVM/QEMU/Libvirt](https://taylorific.github.io/kvm-training/) - 2025
   - [Introduction to Meta/Facebook-style Chef with "Configuration as Data"](https://taylorific.github.io/chef-training/) - 2025
   - [Testing Your Automation Code (Docker Version)](https://www.slideshare.net/misheska/testing-yourautomationcode-docker-version-v02), May 2014
