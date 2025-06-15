@@ -3,7 +3,7 @@
 - 🌟 Projects
   - 📦 [Boxcutter KVM cloud images](https://github.com/boxcutter/kvm) - Modern CI cloud image pipelines in HCL with HashiCorp Packer
   - 🐋 [Robotics Open Container Images](https://github.com/boxcutter/oci) - Open container images for robotics using BuildKit/Bake in HCL
-  - 👯 [Self-Managed GitHub Repository Org Example](https://github.com/boxcutter/pulumi-github-repository) - OrgOps for GitHub
+  - 👯 [Self-Managed GitHub Repository Org Example](https://github.com/boxcutter/pulumi-github-repository) - OrgOps for GitHub in Pulumi with Python
   - 🧱 [Boxcutter Chef Cookbooks](https://github.com/boxcutter/boxcutter-chef-cookbooks) - Example Chef Automation in the Meta/Facebook "Configuration as Data" style
 
 - 📝 Training I've provided
