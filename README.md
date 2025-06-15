@@ -8,7 +8,7 @@
 
 - Training I've provided
   - [Introduction to KVM/QEMU/Libvirt](https://taylorific.github.io/kvm-training/)
-  - [Introduction to Meta/Facebook-style Chef)(https://taylorific.github.io/chef-training/)
+  - [Introduction to Meta/Facebook-style Chef with "Configuration as Data"](https://taylorific.github.io/chef-training/)
 <!--
 **taylorific/taylorific** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
