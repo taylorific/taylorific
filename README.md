@@ -4,6 +4,11 @@
   - 📦 [Boxcutter KVM cloud images](https://github.com/boxcutter/kvm) - Modern CI pipelines in HCL for most cloud images with HashiCorp Packer
   - 🐋 [Robotics Open Container Images](https://github.com/boxcutter/oci) - Open container images for robotics using BuildKit/Bake HCL scripts
   - 👯 [Self-Managed GitHub Repository Org Example](https://github.com/boxcutter/pulumi-github-repository) - OrgOps for GitHub
+  - 🧱 [Boxcutter Chef Cookbooks](https://github.com/boxcutter/boxcutter-chef-cookbooks) - Example Chef Automation in the Meta/Facebook "Configuration as Data" style
+
+- Training I've provided
+  - [Introduction to KVM/QEMU/Libvirt](https://taylorific.github.io/kvm-training/)
+  - [Introduction to Meta/Facebook-style Chef)(https://taylorific.github.io/chef-training/)
 <!--
 **taylorific/taylorific** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
