@@ -7,8 +7,10 @@
   - 🧱 [Boxcutter Chef Cookbooks](https://github.com/boxcutter/boxcutter-chef-cookbooks) - Example Chef Automation in the Meta/Facebook "Configuration as Data" style
 
 - 📝 Training I've provided
-  - [Introduction to KVM/QEMU/Libvirt](https://taylorific.github.io/kvm-training/)
-  - [Introduction to Meta/Facebook-style Chef with "Configuration as Data"](https://taylorific.github.io/chef-training/)
+  - [Introduction to KVM/QEMU/Libvirt](https://taylorific.github.io/kvm-training/) - 2025
+  - [Introduction to Meta/Facebook-style Chef with "Configuration as Data"](https://taylorific.github.io/chef-training/) - 2025
+  - [Testing Your Automation Code (Docker Version)](https://www.slideshare.net/misheska/testing-yourautomationcode-docker-version-v02), May 2014
+  - [Testing Your Automation Code (Vagrant Version)](https://www.slideshare.net/slideshow/testing-your-automation-code-vagrant-version-v02/34902564), May 2014
 
 - 📚 Published works
   - [Learning Chef - O'Reilly (co-author)](https://learning.oreilly.com/library/view/learning-chef/9781491945087/)
