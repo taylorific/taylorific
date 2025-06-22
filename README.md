@@ -9,7 +9,7 @@
 - 📝 Teaching
   - [Introduction to KVM/QEMU/Libvirt](https://taylorific.github.io/kvm-training/) - 2025
   - [Introduction to Meta/Facebook-style Chef with "Configuration as Data"](https://taylorific.github.io/chef-training/) - 2025
-  - [Introduction to Prometheus and Observability](https://github.com/taylorific/observability-training) - 2025
+  - [Introduction to Prometheus and Observability](https://taylorific.github.io/observability-training/) - 2025
   - [Testing Your Automation Code (Docker Version)](https://www.slideshare.net/misheska/testing-yourautomationcode-docker-version-v02), May 2014
   - [Testing Your Automation Code (Vagrant Version)](https://www.slideshare.net/slideshow/testing-your-automation-code-vagrant-version-v02/34902564), May 2014
 
