@@ -1,4 +1,4 @@
-## I'm Mischa Taylor, hi there 👋
+## I'm Mischa Taylor, hi there 🧑‍💻
 
 - 🌟 Projects
   - 📦 [Boxcutter KVM cloud images](https://github.com/boxcutter/kvm) - Modern CI cloud image pipelines in HCL with HashiCorp Packer
