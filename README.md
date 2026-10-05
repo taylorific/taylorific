@@ -7,6 +7,7 @@
   - 🧱 [Boxcutter Chef Cookbooks](https://github.com/boxcutter/boxcutter-chef-cookbooks) - Robotics/ROS configuration automation in Chef published as a Meta/Facebook API/Configuration as Data [UNIVERSE repo](https://github.com/facebook/chef-cookbooks/blob/main/UNIVERSE.md)
 
 - 📝 Teaching
+  - [Using Swamp to automate AI workflows](https://github.com/taylorific/swamp-training) - 2026
   - [Introduction to KVM/QEMU/Libvirt](https://taylorific.github.io/kvm-training/) - 2025
   - [Introduction to Meta/Facebook-style Chef with "Configuration as Data"](https://taylorific.github.io/chef-training/) - 2025
   - [Introduction to Prometheus and Observability](https://taylorific.github.io/observability-training/) - 2025
